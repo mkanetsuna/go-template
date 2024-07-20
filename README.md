@@ -1,6 +1,6 @@
 # go-template
 
-** プロジェクトルートで以下を実行して go.mod を生成 **
+**プロジェクトルートで以下を実行して go.mod を生成**
 
 ```
 go mod init my_go_project
@@ -9,12 +9,12 @@ go mod tidy
 
 This is a simple Go project template.
 
-** Requirements **
+**Requirements**
 
 - Go 1.x
 - reflex
 
-** How to run **
+**How to run**
 
 ```
 go mod init my_go_project
@@ -26,7 +26,7 @@ go mod tidy
 go run src/main.go
 ```
 
-** How to run dev**
+**How to run dev**
 
 ```sh
 go mod init my_go_project
